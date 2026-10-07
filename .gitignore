@@ -1,0 +1,5 @@
+ece662/datasets/cinic-10-small-npz/*.npz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
